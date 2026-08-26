@@ -20,7 +20,6 @@ readFile('../content/first.txt', 'utf8',(err, data) => {
                 }
                 console.log('WriteFile Result: ', data)
             }
-
         )
     });
 });
