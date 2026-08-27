@@ -100,5 +100,3 @@ Each topic will contain:
 ## 🚀 Progress
 
 **Current Focus:** Node.js Fundamentals
-
-> Learn → Build → Practice → Revise → Repeat
