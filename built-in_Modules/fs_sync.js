@@ -11,6 +11,7 @@ writeFileSync(
 
 // Important flag values:
 
+
 // 'w' → write/overwrite existing content (default)
 // 'a' → append to existing content
 // 'wx' → write only if file doesn't already exist
